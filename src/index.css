@@ -7,7 +7,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* Custom Styles */
 body {
   font-family: 'Cairo', sans-serif;
   background-color: #f3f4f6;
@@ -18,7 +18,7 @@ body {
   min-height: 100vh;
   margin: 0;
 }
-
+/* Custom Styles */
 #root {
   width: 100%;
   max-width: 480px;
