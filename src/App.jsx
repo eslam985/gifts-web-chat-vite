@@ -144,7 +144,6 @@ const ProductCard = ({ product }) => {
         <h3 className="product-title text-xl font-bold text-gray-800 mb-2">{product.name}</h3>
         <div className="product-details space-y-1 text-sm text-gray-600 w-full">
           <p className="price flex justify-end items-center">
-            <DollarIcon className="ml-2 text-green-600 flex-shrink-0" />
             <span className="price-value font-semibold text-green-700">{displayPrice}</span>
             :السعر
           </p>
